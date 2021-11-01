@@ -1,0 +1,54 @@
+.information-banner{
+    height: 15vh;
+    width: 100%;
+    padding: 2%;
+}
+.information-banner i{
+    font-size: 60px;
+}
+.information-banner h5{
+    margin: 0px;
+}
+@media (min-width: 671px){
+    #information1 {
+      display: flex!important;;
+    }
+    
+  }
+  @media (max-width: 670px){
+    #information1 {
+      display:none!important;
+    }
+    
+  }
+  
+  @media (min-width: 671px){
+    #information2 {
+      display: none!important;;
+    }
+    
+  }
+  @media (max-width: 670px){
+    #information2 {
+      display:block!important;
+    }
+    
+  }
+  
+.information-banner2{
+    height: 30vh;
+    width: 100%;
+    padding: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.information-banner2 i{
+    font-size: 40px;
+}
+.information-banner2 h5{
+    margin: 0px;
+}
+.information-banner2 .list-inline-item{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

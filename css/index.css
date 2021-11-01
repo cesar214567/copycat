@@ -1,6 +1,18 @@
 @import url("components/mini-banner.css");
 @import url("components/respmenu.css");
 @import url("components/logo.css");
+@import url("components/information-banner.css");
+@import url("components/card.css");
+@import url("components/headers.css");
+@import url("components/container.css");
+@import url("components/buttons.css");
+
 body {
   font-family: sans-serif;
+}
+p { 
+  margin:0px;
+}
+.border-line{
+  border: 1px solid black;
 }

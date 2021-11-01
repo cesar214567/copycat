@@ -1,0 +1,13 @@
+.card {
+    height: 20vh;
+    width: 100%;
+    border-top: 1px solid grey;
+    border-right: 0px solid black;
+    border-left: 0px solid black;
+    border-bottom: 0px solid black;
+    
+}
+
+.card-info {
+    padding-left: 25px;
+}

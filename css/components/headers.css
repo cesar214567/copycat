@@ -1,0 +1,17 @@
+@media (min-width: 671px){
+    #headers {
+      display:flex;
+    }
+    #carrito {
+        display:block;
+      }
+  }
+  @media (max-width: 670px){
+    #headers {
+      display:none;
+    }
+    #carrito {
+        text-align: center;
+      }
+  }
+  
